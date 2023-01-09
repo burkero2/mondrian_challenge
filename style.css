@@ -1,70 +1,70 @@
-#mainContainer{
+#mainContainer {
     width: 500px;
     height: 500px;
     border: solid 15px black;
     margin: 120px auto;
 }
 
-#subcontainer1{
+#subcontainer1 {
     width: 105px;
     height: 370px;
 }
 
-#subcontainer2{
+#subcontainer2 {
     float: left;
 }
 
-.long{
+.long {
     width: 105px;
     height: 180px;
 }
 
-.float{
+.float {
     float: left;
 }
 
-.white{
-    background-color:white;   
+.white {
+    background-color: white;
 }
 
-.borderBottom{
+.borderBottom {
     border-bottom: 10px solid black;
 }
 
-.borderRight{
+.borderRight {
     border-right: 10px solid black;
 }
 
-.red{
+.red {
     background-color: red;
     width: 385px;
     height: 370px;
 }
 
-.blue{
-    background-color:blue;
+.blue {
+    background-color: blue;
     width: 105px;
     height: 120px;
 }
 
-.wide{
+.wide {
     height: 120px;
     width: 310px;
 }
 
-.small{
+.small {
     height: 55px;
     width: 65px;
 
 }
 
-.blackContainer{
+.blackContainer {
     width: 500px;
     height: 10px;
-    clear:both;
-    background-color:black;
+    clear: both;
+    background-color: black;
 }
 
-.yellow{
+.yellow {
     background-color: yellow;
 }
